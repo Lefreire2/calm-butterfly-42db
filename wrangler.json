@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "calm-butterfly-42db",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3fb78d3f-cdcb-440f-ba3a-0f5dc694a0e6",
+      "database_name": "wild-forest-3ee4-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
